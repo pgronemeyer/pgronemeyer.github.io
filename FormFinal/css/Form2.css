@@ -1,0 +1,46 @@
+
+/*styles entire form*/
+form{width: 70%; background:rgb(195, 216, 162);color: rgb(74, 112, 80);
+padding-left: 50px; padding-right: 50px;padding-bottom: 50px; padding-top: 50px;     border-style: solid;
+    border-width: 3px; 
+}
+
+/*ht of comment box*/
+/*#cmt{height: 200px;}*/
+
+/*label color*/
+legend{
+    color:rgb(74, 112, 80);}
+
+/*Green bold text label size*/
+label{ font-size: 20px}
+
+/*NEED COMMENT Alighmt TOP input::placeholder{vertical-align}*/
+
+/*styles button props*/
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 15px 8px 10px;
+  text-decoration: none;}
+
+/*styles button hover change*/
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}

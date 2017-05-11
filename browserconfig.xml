@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Please read: https://msdn.microsoft.com/en-us/library/ie/dn455106.aspx -->
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="C:\Users\d208\Desktop\Sp17C-PegGronemeyer\CIS152_FinalBoilerPlate_06May17\images\awd.jpg"/>
+            <square150x150logo src=""C:\Users\d208\Desktop\Sp17C-PegGronemeyer\CIS152_FinalBoilerPlate_06May17\images\awd.jpg""/>
+            <wide310x150logo src=""C:\Users\d208\Desktop\Sp17C-PegGronemeyer\CIS152_FinalBoilerPlate_06May17\images\awd.jpg""/>
+            <square310x310logo src=""C:\Users\d208\Desktop\Sp17C-PegGronemeyer\CIS152_FinalBoilerPlate_06May17\images\awd.jpg""/>
+        </tile>
+    </msapplication>
+</browserconfig>

@@ -1,0 +1,29 @@
+.container{width: 100%;
+}
+.row{height: 100px;}   
+
+.name{background-color: rgb(35, 137, 113);color: rgb(213, 230, 234);font-size: 18px;text-align: left; padding-left: 10px; padding-top: 25px; height: 100%;}
+
+.welcome{background-color: rgb(35, 137, 113);color: rgb(213, 230, 234);font-size: 24px;text-align: center;height: 100%;padding-top: 20px;}
+
+.info{background-color:  rgb(35, 137, 113);color: rgb(213, 230, 234);font-size: 12px;text-align: left; padding-top: 35px; height: 100%;}
+
+/* BEGIN nav bar*/
+    ul {list-style-type: none;margin: 0;
+       padding: 0; overflow: hidden;     background-color: rgb(50, 50, 50); width: 100%;} 
+
+    li a{float: left; font-size: 16px;   display: block; color: rgb(215, 213, 234);text-align: center;
+    padding: 8px 60px; text-decoration: none;}
+
+li a:hover {color: black; background-color: lightseagreen;}
+body{border:rgb(89, 80, 233) 5px solid;}
+
+
+.cv{background-color: rgb(213, 230, 234);}
+#CVhead{padding-top: 4px; padding-bottom: 4px;border: red 2px solid; color: rgb(35, 75, 70); font-weight: bold;font-size: 16px;}
+
+
+.right side{font-size: 32;}
+
+    /*footer*/
+footer{font-size: 10px;background-color: rgb(221, 241, 240); color: darkslategray;text-align: center;  padding-top: 15px; padding-bottom: 15px; padding-right: 20px; padding-left: 20px;border-style: solid;}

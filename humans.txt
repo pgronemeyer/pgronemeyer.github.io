@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Peg Gronemeyer, Spatial Ecologist, 12May17 (assisted by Becky Ding)
+
+# THANKS
+
+    I would like to thank my parents and my sister, Patti, for reviewing my webpage.
+    Thanks also to PHOTOG name, for the use of his beautiful Hooded Warbler and Snowy Egret pictures.
+    And special thanks to Becky Ding, instructor for CIS 152, for encouraging me to go farther on my webpage.
+    Lastly thanks to coders who create code under public use licenses, e.g. JQuery plugin
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
